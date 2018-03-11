@@ -7,7 +7,7 @@ Summary:        RPM macros needed by packages built with Free Pascal Compiler
 # Fedora Project Contribution Agreement
 # and as URL we provide dist-git URL
 License:        MIT
-URL:            http://pkgs.fedoraproject.org/cgit/rpms/fpc-src-macros.git
+URL:            https://src.fedoraproject.org/rpms/fpc-srpm-macros
 Source0:        macros.fpc-srpm
 BuildArch:      noarch
 
